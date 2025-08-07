@@ -53,6 +53,6 @@ Neste desafio, criamos um programa em Java que:
 
 ## 🧑‍💻 Autor
 
-Desenvolvido durante o Bootcamp Santander 2025 - Back-End com Java.
+Thiago Carvalho Ferrer.
 
 ---
